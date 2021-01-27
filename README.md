@@ -1,2 +1,0 @@
-# student-directory
-# student-directory
